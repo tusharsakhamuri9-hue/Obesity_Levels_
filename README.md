@@ -72,7 +72,7 @@ streamlit run app.py
 ## 🌐 Live Demo
 
 👉 Add your Streamlit app link here
-
+https://obesitylevels.streamlit.app/
 ---
 
 ## 🧠 Conclusion
